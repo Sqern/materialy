@@ -1,1 +1,1 @@
-dowolna tresc
+dowolna tresc - zmieniam tekst na masterze
